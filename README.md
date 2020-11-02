@@ -1,3 +1,4 @@
-# info2180-project1
 
-This is Project 1 for Jordon Porter
+# INFO2180 Project 1
+
+This is project 1 for Jordon Porter
